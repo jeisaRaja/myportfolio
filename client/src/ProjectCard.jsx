@@ -28,7 +28,7 @@ const ProjectCard = () => {
       />
       <h1 className='font-bold'>Yelpcamp</h1>
       <span>
-      <a href='https://githhttps://yelpcamp-production-626d.up.railway.app/campground' className='underline text-[0.9rem] text-blue-600 mr-2'>Live Demo</a>
+      <a href='https://yelpcamp-production-626d.up.railway.app/campground' className='underline text-[0.9rem] text-blue-600 mr-2'>Live Demo</a>
       <a href='https://github.com/jeisaRaja/Yelpcamp' className='underline text-[0.9rem] text-blue-600'>Github</a>
       </span>
       <p className='text-[0.9rem]'>For camping enthusiasts to discover, share, and review their favorite camping spots.</p>
